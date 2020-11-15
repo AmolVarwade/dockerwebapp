@@ -4,7 +4,7 @@ node {
 
 
 
-    docker.withRegistry('https://https://registry.hub.docker.com/', 'dockerhub') {
+    docker.withRegistry('https://https://registry.hub.docker.com', 'dockerhub') {
 
 
 
