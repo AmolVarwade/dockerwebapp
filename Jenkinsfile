@@ -8,7 +8,7 @@ node {
 
 
 
-        def customImage = docker.build("amol/dockerwebapp}")
+        def customImage = docker.build("mywebapp}")
 
 
 
